@@ -8,7 +8,7 @@ Now, it's time to take Python Pandas and apply it to new situations. For this as
 
 ## Heroes of Pymoli
 
-![Fantasy](Images/Fantasy.jpg)
+![Fantasy](Fantasy.jpg)
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 
